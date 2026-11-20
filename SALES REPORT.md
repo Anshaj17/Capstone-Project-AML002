@@ -74,6 +74,9 @@ Revenue Concentration: High-ticket Electronics and Furniture items dominate tota
 
 
 Seasonality: Monthly time-series analysis reveals a pronounced Q4 surge (November–December) across all categories, requiring inventory buffer expansion in early Q4.
+<img width="1584" height="1178" alt="output" src="https://github.com/user-attachments/assets/db703e97-f8f5-4838-b745-b1bcade5a9f2" />
+<img width="1584" height="1142" alt="output 2" src="https://github.com/user-attachments/assets/561b63d3-31ef-45f6-89aa-59f62079e6cb" />
+
 
 
 
